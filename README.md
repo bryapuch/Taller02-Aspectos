@@ -8,6 +8,6 @@ Integrantes:
 	Bryan Puchaicela
 	Kenny Yepez
 
-![Captura de funcionamiento de la creacion de usuario](/Imagenes/Captura1.PNG)
+![Captura de funcionamiento de la creacion de usuario](/Imagenes/Captura.PNG)
  
  
